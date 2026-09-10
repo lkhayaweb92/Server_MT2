@@ -1,4 +1,4 @@
-# ⚔️ Server_MT2 - Diario di Sviluppo
+**# ⚔️ Server_MT2 - Diario di Sviluppo
 
 Benvenuti nel mio progetto hobby per lo sviluppo di file Server e Client per Metin2. 
 Il progetto è in pieno sviluppo e al momento non è ancora aperto ai test.
@@ -19,6 +19,8 @@ Il progetto è in pieno sviluppo e al momento non è ancora aperto ai test.
 
 - [Server] Fix Server dai warning e error con gcc9
 - [Sito Web] Creazione della piattaforma web e dei servizi di registrazione
+- [Client/Server] Inserimento e fix del Lican (Sorgenti e file di gioco)
+- [Client/Server] Inserimento del System delle Stole (Acce)
 </details>
 
 <details>
@@ -26,10 +28,6 @@ Il progetto è in pieno sviluppo e al momento non è ancora aperto ai test.
 
 - [Server] Allineamento dei Source Server per l'avvio dei primi test di ingresso
 - [Database] Configurazione tabelle iniziali e drop generale
-- [Client] Inserimento e fix del Lican (Sorgenti e file di gioco)
-- [Client] Inserimento e fix del Lican (Sorgenti e file di gioco)
-- [Server] Inserimento e fix del Lican (Sorgenti e file di gioco)
-- [Server] Inserimento del System delle Stole (Acce)
 </details>
 
 ---
@@ -38,4 +36,4 @@ Il progetto è in pieno sviluppo e al momento non è ancora aperto ai test.
 ---
 ☕ Se apprezzi il mio tempo e vuoi supportare le notti passate a programmare, puoi offrirmi un caffè spontaneo qui:
 [Inserisci qui il tuo link Ko-fi o PayPal]
-
+**
