@@ -17,8 +17,7 @@ Il progetto è in pieno sviluppo e al momento non è ancora aperto ai test.
 <details>
 <summary>🟡 <b>IN CORSO DI SVILUPPO (IN PROGRESS) - Clicca per espandere</b></summary>
 
-- [Client] Inserimento e fix del Lican (Sorgenti e file di gioco)
-- [Client] Inserimento del System delle Stole (Acce)
+- [Server] Fix Server dai warning e error con gcc9
 - [Sito Web] Creazione della piattaforma web e dei servizi di registrazione
 </details>
 
@@ -27,7 +26,10 @@ Il progetto è in pieno sviluppo e al momento non è ancora aperto ai test.
 
 - [Server] Allineamento dei Source Server per l'avvio dei primi test di ingresso
 - [Database] Configurazione tabelle iniziali e drop generale
-- 
+- [Client] Inserimento e fix del Lican (Sorgenti e file di gioco)
+- [Client] Inserimento e fix del Lican (Sorgenti e file di gioco)
+- [Server] Inserimento e fix del Lican (Sorgenti e file di gioco)
+- [Server] Inserimento del System delle Stole (Acce)
 </details>
 
 ---
